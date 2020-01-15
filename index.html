@@ -11,26 +11,45 @@
 document.documentElement.className = document.documentElement.className.replace(/\bnojs\b/g, 'js');
 
 // Check that all required assets are uploaded and up-to-date
-if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required":["museutils.js", "museconfig.js", "jquery.watch.js", "require.js", "index.css"], "outOfDate":[]};
+if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required":["museutils.js", "museconfig.js", "jquery.watch.js", "jquery.museresponsive.js", "require.js", "index.css"], "outOfDate":[]};
 </script>
   
   <title>a</title>
   <!-- CSS -->
   <link rel="stylesheet" type="text/css" href="css/site_global.css?crc=444006867"/>
-  <link rel="stylesheet" type="text/css" href="css/index.css?crc=3758838708" id="pagesheet"/>
+  <link rel="stylesheet" type="text/css" href="css/index.css?crc=372270398" id="pagesheet"/>
+  <!-- IE-only CSS -->
+  <!--[if lt IE 9]>
+  <link rel="stylesheet" type="text/css" href="css/nomq_index.css?crc=3994615139" id="nomq_pagesheet"/>
+  <![endif]-->
    </head>
  <body>
 
-  <div class="clearfix borderbox" id="page"><!-- group -->
-   <div class="clip_frame grpelem" id="u94"><!-- image -->
-    <img class="block" id="u94_img" src="images/img_20181001_094847_650.jpg?crc=4009266070" alt="" data-heightwidthratio="0.8972222222222223" data-image-width="1080" data-image-height="969"/>
+  <div class="breakpoint active" id="bp_infinity" data-min-width="1081"><!-- responsive breakpoint node -->
+   <div class="clearfix borderbox" id="page"><!-- group -->
+    <div class="clip_frame grpelem" id="u94"><!-- image -->
+     <img class="block temp_no_img_src" id="u94_img" data-orig-src="images/img_20181001_094847_650.jpg?crc=3814163014" alt="" data-heightwidthratio="0.8970331588132635" data-image-width="1719" data-image-height="1542" src="images/blank.gif?crc=4208392903"/>
+    </div>
+    <a class="nonblock nontext grpelem" id="u104-4" href="b.html"><!-- rasterized frame --><img class="temp_no_img_src" id="u104-4_img" alt="動畫" data-orig-src="images/u104-4.png?crc=4176300746" data-image-width="725" src="images/blank.gif?crc=4208392903"/></a>
+    <a class="nonblock nontext grpelem" id="u108-4" href="c.html"><!-- rasterized frame --><img class="temp_no_img_src" id="u108-4_img" alt="裝置" data-orig-src="images/u108-4.png?crc=273226337" data-image-width="598" src="images/blank.gif?crc=4208392903"/></a>
+    <a class="nonblock nontext grpelem" id="u111-4" href="2.html"><!-- rasterized frame --><img class="temp_no_img_src" id="u111-4_img" alt="攝影" data-orig-src="images/u111-4.png?crc=3866304300" data-image-width="617" src="images/blank.gif?crc=4208392903"/></a>
+    <img class="grpelem temp_no_img_src" id="u114-4" alt="作品" data-orig-src="images/u114-4.png?crc=503933990" data-image-width="1017" src="images/blank.gif?crc=4208392903"/><!-- rasterized frame -->
+    <img class="grpelem temp_no_img_src" id="u125-4" alt="吳昇儒" width="97" height="253" data-orig-src="images/u125-4.png?crc=4168407326" src="images/blank.gif?crc=4208392903"/><!-- rasterized frame -->
+    <div class="verticalspacer" data-offset-top="841" data-content-above-spacer="841" data-content-below-spacer="61" data-sizePolicy="fixed" data-pintopage="page_fixedLeft"></div>
    </div>
-   <a class="nonblock nontext grpelem" id="u104-4" href="b.html"><!-- rasterized frame --><img id="u104-4_img" alt="動畫" src="images/u104-4.png?crc=176652913" data-image-width="456"/></a>
-   <a class="nonblock nontext grpelem" id="u108-4" href="c.html"><!-- rasterized frame --><img id="u108-4_img" alt="裝置" src="images/u108-4.png?crc=399906341" data-image-width="376"/></a>
-   <a class="nonblock nontext grpelem" id="u111-4" href="d.html"><!-- rasterized frame --><img id="u111-4_img" alt="攝影" src="images/u111-4.png?crc=3934344441" data-image-width="388"/></a>
-   <img class="grpelem" id="u114-4" alt="作品集" src="images/u114-4.png?crc=500637864" data-image-width="639"/><!-- rasterized frame -->
-   <img class="grpelem" id="u125-4" alt="吳昇儒" width="97" height="253" src="images/u125-4.png?crc=4168407326"/><!-- rasterized frame -->
-   <div class="verticalspacer" data-offset-top="743" data-content-above-spacer="742" data-content-below-spacer="61" data-sizePolicy="fixed" data-pintopage="page_fixedLeft"></div>
+  </div>
+  <div class="breakpoint" id="bp_1080" data-max-width="1080"><!-- responsive breakpoint node -->
+   <div class="clearfix borderbox temp_no_id" data-orig-id="page"><!-- group -->
+    <div class="clip_frame grpelem temp_no_id" data-orig-id="u94"><!-- image -->
+     <img class="block temp_no_id temp_no_img_src" data-orig-src="images/img_20181001_094847_6501080x969.jpg?crc=4073666370" alt="" data-heightwidthratio="0.8972222222222223" data-image-width="1080" data-image-height="969" data-orig-id="u94_img" src="images/blank.gif?crc=4208392903"/>
+    </div>
+    <a class="nonblock nontext grpelem temp_no_id" href="b.html" data-orig-id="u104-4"><!-- rasterized frame --><img class="temp_no_id temp_no_img_src" alt="動畫" data-orig-src="images/u104-42.png?crc=176652913" data-image-width="456" data-orig-id="u104-4_img" src="images/blank.gif?crc=4208392903"/></a>
+    <a class="nonblock nontext grpelem temp_no_id" href="c.html" data-orig-id="u108-4"><!-- rasterized frame --><img class="temp_no_id temp_no_img_src" alt="裝置" data-orig-src="images/u108-42.png?crc=399906341" data-image-width="376" data-orig-id="u108-4_img" src="images/blank.gif?crc=4208392903"/></a>
+    <a class="nonblock nontext grpelem temp_no_id" href="2.html" data-orig-id="u111-4"><!-- rasterized frame --><img class="temp_no_id temp_no_img_src" alt="攝影" data-orig-src="images/u111-42.png?crc=3934344441" data-image-width="388" data-orig-id="u111-4_img" src="images/blank.gif?crc=4208392903"/></a>
+    <img class="grpelem temp_no_id temp_no_img_src" alt="作品" data-orig-src="images/u114-42.png?crc=3994661458" data-image-width="639" data-orig-id="u114-4" src="images/blank.gif?crc=4208392903"/><!-- rasterized frame -->
+    <img class="grpelem temp_no_id temp_no_img_src" alt="吳昇儒" width="97" height="253" data-orig-src="images/u125-42.png?crc=4168407326" data-orig-id="u125-4" src="images/blank.gif?crc=4208392903"/><!-- rasterized frame -->
+    <div class="verticalspacer" data-offset-top="743" data-content-above-spacer="742" data-content-below-spacer="61" data-sizePolicy="fixed" data-pintopage="page_fixedLeft"></div>
+   </div>
   </div>
   <!-- Other scripts -->
   <script type="text/javascript">
@@ -43,13 +62,13 @@ var suppressMissingFileError = false
 k[1]:null,k=k&&k[2]?k[2]:null;switch(k.toLowerCase()){case "css":i=i.replace(/\W/gi,"_").replace(/^([^a-z])/gi,"_$1");g.className+=" "+i;i=a(d(g,"color"));k=a(d(g,"backgroundColor"));i!=0||k!=0?(Muse.assets.required.splice(j,1),"undefined"!=typeof b[l]&&(i!=b[l]>>>24||k!=(b[l]&16777215))&&Muse.assets.outOfDate.push(l)):j++;g.className="version";break;case "js":j++;break;default:throw Error("Unsupported file type: "+k);}}c?c().jquery!="1.8.3"&&Muse.assets.outOfDate.push("jquery-1.8.3.min.js"):Muse.assets.required.push("jquery-1.8.3.min.js");
 g.parentNode.removeChild(g);if(Muse.assets.outOfDate.length||Muse.assets.required.length)g="伺服器上的某些檔案可能遺失或不正確。請清除瀏覽器快取後再試一次。若問題持續發生，請聯絡網站作者。",f&&Muse.assets.outOfDate.length&&(g+="\nOut of date: "+Muse.assets.outOfDate.join(",")),f&&Muse.assets.required.length&&(g+="\nMissing: "+Muse.assets.required.join(",")),suppressMissingFileError?(g+="\nUse SuppressMissingFileError key in AppPrefs.xml to show missing file error pop up.",console.log(g)):alert(g)};location&&location.search&&location.search.match&&location.search.match(/muse_debug/gi)?
 setTimeout(function(){f(!0)},5E3):f()}};
-var muse_init=function(){require.config({baseUrl:""});require(["jquery","museutils","whatinput","jquery.watch"],function(c){var $ = c;$(document).ready(function(){try{
+var muse_init=function(){require.config({baseUrl:""});require(["jquery","museutils","whatinput","jquery.watch","jquery.museresponsive"],function(c){var $ = c;$(document).ready(function(){try{
 window.Muse.assets.check($);/* body */
 Muse.Utils.transformMarkupToFixBrowserProblemsPreInit();/* body */
 Muse.Utils.prepHyperlinks(true);/* body */
 Muse.Utils.makeButtonsVisibleAfterSettingMinWidth();/* body */
 Muse.Utils.fullPage('#page');/* 100% height page */
-Muse.Utils.showWidgetsWhenReady();/* body */
+$( '.breakpoint' ).registerBreakpoint();/* Register breakpoints */
 Muse.Utils.transformMarkupToFixBrowserProblems();/* body */
 }catch(b){if(b&&"function"==typeof b.notify?b.notify():Muse.Assert.fail("Error calling selector function: "+b),false)throw b;}})})};
 

@@ -1,64 +1,67 @@
-<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="lonesloth.github.io" resolutions="1x" timestamp="1579112957221">
+<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="lonesloth.github.io" resolutions="1x" timestamp="1579113841265">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="3758838708" ref="index"/>
-    <file name="b.css" crc="4186865278" ref="b"/>
+    <file name="index.css" crc="372270398" ref="index"/>
+    <file name="b.css" crc="4197309745" ref="b"/>
     <file name="c.css" crc="9971260" ref="c"/>
-    <file name="d.css" crc="251987178" ref="d"/>
+    <file name="nomq_b.css" crc="263964469" ref="b"/>
+    <file name="nomq_index.css" crc="3994615139" ref="index"/>
+    <file name="2.css" crc="251987178" ref="2"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:b:c:d"/>
-    <file name="museutils.js" crc="3939489907" ref="index:b:c:d"/>
-    <file name="whatinput.js" crc="86476730" ref="index:b:c:d"/>
-    <file name="museconfig.js" crc="128606099" ref="index:b:c:d"/>
-    <file name="jquery.watch.js" crc="522499760" ref="index:b:c:d"/>
-    <file name="require.js" crc="4177726516" ref="index:b:c:d"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:b:c:2"/>
+    <file name="museutils.js" crc="3939489907" ref="index:b:c:2"/>
+    <file name="whatinput.js" crc="86476730" ref="index:b:c:2"/>
+    <file name="museconfig.js" crc="128606099" ref="index:b:c:2"/>
+    <file name="jquery.watch.js" crc="522499760" ref="index:b:c:2"/>
+    <file name="require.js" crc="4177726516" ref="index:b:c:2"/>
+    <file name="jquery.museresponsive.js" crc="95814420" ref="index:b"/>
   </folder>
   <folder name="images">
-    <file name="img_20181001_094847_650.jpg" crc="4009266070" seo="true" ref="index">
+    <file name="img_20181001_094847_650.jpg" crc="3814163014" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="u104-4.png" crc="176652913" ref="index"/>
-    <file name="u108-4.png" crc="399906341" ref="index"/>
-    <file name="u111-4.png" crc="3934344441" ref="index"/>
-    <file name="u114-4.png" crc="500637864" ref="index"/>
+    <file name="u104-4.png" crc="4176300746" ref="index"/>
+    <file name="u108-4.png" crc="273226337" ref="index"/>
+    <file name="u111-4.png" crc="3866304300" ref="index"/>
+    <file name="u114-4.png" crc="503933990" ref="index"/>
     <file name="u125-4.png" crc="4168407326" ref="index"/>
-    <file name="u226-4.png" crc="4246825195" ref="b"/>
-    <file name="u229-4.png" crc="4095206678" ref="b"/>
-    <file name="wakeupsong.jpg" crc="4160469940" seo="true" ref="b">
+    <file name="u226-4.png" crc="197564506" ref="b"/>
+    <file name="u229-4.png" crc="3844081210" ref="b"/>
+    <file name="wakeupsong.jpg" crc="127951993" seo="true" ref="b">
       <caption webpage="3" alt=""/>
-      <caption webpage="未命名-2" alt=""/>
       <caption webpage="b" alt=""/>
+      <caption webpage="未命名-2" alt=""/>
     </file>
-    <file name="streetsong3.jpg" crc="3850424250" seo="true" ref="b">
+    <file name="streetsong3.jpg" crc="3886383261" seo="true" ref="b">
       <caption webpage="3" alt=""/>
-      <caption webpage="未命名-2" alt=""/>
       <caption webpage="b" alt=""/>
+      <caption webpage="未命名-2" alt=""/>
     </file>
-    <file name="cultsong.jpg" crc="4064894169" seo="true" ref="b">
+    <file name="cultsong.jpg" crc="4062030144" seo="true" ref="b">
       <caption webpage="3" alt=""/>
-      <caption webpage="未命名-2" alt=""/>
       <caption webpage="b" alt=""/>
+      <caption webpage="未命名-2" alt=""/>
     </file>
-    <file name="poster.jpg" crc="140792802" seo="true" ref="b">
+    <file name="poster.jpg" crc="432931859" seo="true" ref="b">
       <caption webpage="3" alt=""/>
-      <caption webpage="未命名-2" alt=""/>
       <caption webpage="b" alt=""/>
+      <caption webpage="未命名-2" alt=""/>
     </file>
-    <file name="s__84910084.jpg" crc="432421343" seo="true" ref="b">
+    <file name="s__84910084.jpg" crc="285894657" seo="true" ref="b">
       <caption webpage="3" alt=""/>
-      <caption webpage="未命名-2" alt=""/>
       <caption webpage="b" alt=""/>
+      <caption webpage="未命名-2" alt=""/>
     </file>
-    <file name="s__84910085.jpg" crc="423752578" seo="true" ref="b">
+    <file name="s__84910085.jpg" crc="4041673216" seo="true" ref="b">
       <caption webpage="3" alt=""/>
-      <caption webpage="未命名-2" alt=""/>
       <caption webpage="b" alt=""/>
+      <caption webpage="未命名-2" alt=""/>
     </file>
-    <file name="s__84910082.jpg" crc="417577213" seo="true" ref="b">
+    <file name="s__84910082.jpg" crc="4004747376" seo="true" ref="b">
       <caption webpage="3" alt=""/>
-      <caption webpage="未命名-2" alt=""/>
       <caption webpage="b" alt=""/>
+      <caption webpage="未命名-2" alt=""/>
     </file>
     <file name="u284-8.png" crc="3780509952" ref="c"/>
     <file name="img_20181001_095109_031.jpg" crc="3936502492" seo="true" ref="c">
@@ -81,25 +84,57 @@
       <caption webpage="c" alt=""/>
       <caption webpage="未命名-3" alt=""/>
     </file>
-    <file name="u339-4.png" crc="113378613" ref="d"/>
-    <file name="_mg_1904.jpg" crc="393496712" seo="true" ref="d">
+    <file name="u339-4.png" crc="113378613" ref="2"/>
+    <file name="_mg_1904.jpg" crc="393496712" seo="true" ref="2">
       <caption webpage="2" alt=""/>
-      <caption webpage="d" alt=""/>
       <caption webpage="未命名-4" alt=""/>
+      <caption webpage="d" alt=""/>
     </file>
-    <file name="_mg_1696.jpg" crc="4033867824" seo="true" ref="d">
+    <file name="_mg_1696.jpg" crc="4033867824" seo="true" ref="2">
       <caption webpage="2" alt=""/>
-      <caption webpage="d" alt=""/>
       <caption webpage="未命名-4" alt=""/>
+      <caption webpage="d" alt=""/>
     </file>
-    <file name="_mg_1525.jpg" crc="438548209" seo="true" ref="d">
+    <file name="_mg_1525.jpg" crc="438548209" seo="true" ref="2">
       <caption webpage="2" alt=""/>
-      <caption webpage="d" alt=""/>
       <caption webpage="未命名-4" alt=""/>
+      <caption webpage="d" alt=""/>
+    </file>
+    <file name="img_20181001_094847_6501080x969.jpg" crc="4073666370" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u104-42.png" crc="176652913" ref="index"/>
+    <file name="u108-42.png" crc="399906341" ref="index"/>
+    <file name="u111-42.png" crc="3934344441" ref="index"/>
+    <file name="u114-42.png" crc="3994661458" ref="index"/>
+    <file name="u125-42.png" crc="4168407326" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index:b"/>
+    <file name="u226-42.png" crc="4246825195" ref="b"/>
+    <file name="u229-42.png" crc="4095206678" ref="b"/>
+    <file name="wakeupsong506x285.jpg" crc="463613391" seo="true" ref="b">
+      <caption webpage="b" alt=""/>
+    </file>
+    <file name="streetsong3506x285.jpg" crc="29358253" seo="true" ref="b">
+      <caption webpage="b" alt=""/>
+    </file>
+    <file name="cultsong506x285.jpg" crc="4285713306" seo="true" ref="b">
+      <caption webpage="b" alt=""/>
+    </file>
+    <file name="poster1081x764.jpg" crc="4040128671" seo="true" ref="b">
+      <caption webpage="b" alt=""/>
+    </file>
+    <file name="s__84910084506x284.jpg" crc="3818785174" seo="true" ref="b">
+      <caption webpage="b" alt=""/>
+    </file>
+    <file name="s__84910085506x284.jpg" crc="3948997898" seo="true" ref="b">
+      <caption webpage="b" alt=""/>
+    </file>
+    <file name="s__84910082506x284.jpg" crc="23080441" seo="true" ref="b">
+      <caption webpage="b" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="4191858747" seo="true" mt="1579112946380" redirect="true"/>
-  <file name="b.html" crc="3976698432" seo="true" mt="1579112939875" redirect="true"/>
+  <file name="index.html" crc="98769968" seo="true" mt="1579113630012" redirect="true"/>
+  <file name="b.html" crc="80137308" seo="true" mt="1579113798606" redirect="true"/>
   <file name="c.html" crc="119375430" seo="true" mt="1579112943526" redirect="true"/>
-  <file name="d.html" crc="3807066500" seo="true" mt="1579112946380" redirect="true"/>
+  <file name="2.html" crc="292743878" seo="true" mt="1579112154957" redirect="true"/>
 </manifest>

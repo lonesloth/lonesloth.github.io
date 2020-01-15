@@ -8,6 +8,9 @@
     <image:image>
       <image:loc>http://lonesloth.github.io/images/img_20181001_094847_650.jpg</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://lonesloth.github.io/images/img_20181001_094847_6501080x969.jpg</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://lonesloth.github.io/b.html</loc>
@@ -35,6 +38,27 @@
     <image:image>
       <image:loc>http://lonesloth.github.io/images/s__84910082.jpg</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://lonesloth.github.io/images/wakeupsong506x285.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://lonesloth.github.io/images/streetsong3506x285.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://lonesloth.github.io/images/cultsong506x285.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://lonesloth.github.io/images/poster1081x764.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://lonesloth.github.io/images/s__84910084506x284.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://lonesloth.github.io/images/s__84910085506x284.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://lonesloth.github.io/images/s__84910082506x284.jpg</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://lonesloth.github.io/c.html</loc>
@@ -55,7 +79,7 @@
     </image:image>
   </url>
   <url>
-    <loc>http://lonesloth.github.io/d.html</loc>
+    <loc>http://lonesloth.github.io/2.html</loc>
     <lastmod>2020-01-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
