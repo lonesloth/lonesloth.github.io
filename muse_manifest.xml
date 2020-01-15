@@ -1,12 +1,12 @@
-<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="lonesloth.github.io" resolutions="1x" timestamp="1579114459695">
+<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="lonesloth.github.io" resolutions="1x" timestamp="1579116384498">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="index.css" crc="372270398" ref="index"/>
-    <file name="b.css" crc="4197309745" ref="b"/>
-    <file name="c.css" crc="4045779162" ref="c"/>
-    <file name="nomq_b.css" crc="263964469" ref="b"/>
+    <file name="b.css" crc="58939894" ref="b"/>
+    <file name="c.css" crc="65953319" ref="c"/>
+    <file name="nomq_b.css" crc="4290265253" ref="b"/>
     <file name="nomq_index.css" crc="3994615139" ref="index"/>
-    <file name="2.css" crc="4189799049" ref="2"/>
+    <file name="2.css" crc="198856433" ref="2"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:b:c:2"/>
@@ -26,8 +26,8 @@
     <file name="u111-4.png" crc="3866304300" ref="index"/>
     <file name="u114-4.png" crc="503933990" ref="index"/>
     <file name="u125-4.png" crc="4168407326" ref="index"/>
-    <file name="u226-4.png" crc="197564506" ref="b"/>
-    <file name="u229-4.png" crc="3844081210" ref="b"/>
+    <file name="u226-4.png" crc="225980000" ref="b"/>
+    <file name="u229-4.png" crc="40558703" ref="b"/>
     <file name="wakeupsong.jpg" crc="127951993" seo="true" ref="b">
       <caption webpage="3" alt=""/>
       <caption webpage="b" alt=""/>
@@ -63,28 +63,28 @@
       <caption webpage="b" alt=""/>
       <caption webpage="未命名-2" alt=""/>
     </file>
-    <file name="u284-8.png" crc="465320627" ref="c"/>
+    <file name="u284-8.png" crc="358517212" ref="c"/>
     <file name="img_20181001_095109_031.jpg" crc="4164385619" seo="true" ref="c">
       <caption webpage="1" alt=""/>
       <caption webpage="c" alt=""/>
       <caption webpage="未命名-3" alt=""/>
     </file>
-    <file name="img_20181002_024557_810.jpg" crc="238191824" seo="true" ref="c">
+    <file name="img_20181002_024557_810.jpg" crc="152468860" seo="true" ref="c">
       <caption webpage="1" alt=""/>
       <caption webpage="c" alt=""/>
       <caption webpage="未命名-3" alt=""/>
     </file>
-    <file name="img_20181003_213449_739.jpg" crc="4241090294" seo="true" ref="c">
+    <file name="img_20181003_213449_739.jpg" crc="253234022" seo="true" ref="c">
       <caption webpage="1" alt=""/>
       <caption webpage="c" alt=""/>
       <caption webpage="未命名-3" alt=""/>
     </file>
-    <file name="img_20181001_095211_204.jpg" crc="3760054905" seo="true" ref="c">
+    <file name="img_20181001_095211_204.jpg" crc="4267063151" seo="true" ref="c">
       <caption webpage="1" alt=""/>
       <caption webpage="c" alt=""/>
       <caption webpage="未命名-3" alt=""/>
     </file>
-    <file name="u339-4.png" crc="234685389" ref="2"/>
+    <file name="u339-4.png" crc="325781470" ref="2"/>
     <file name="_mg_1904.jpg" crc="4277733369" seo="true" ref="2">
       <caption webpage="2" alt=""/>
       <caption webpage="d" alt=""/>
@@ -110,7 +110,7 @@
     <file name="u125-42.png" crc="4168407326" ref="index"/>
     <file name="blank.gif" crc="4208392903" ref="index:b"/>
     <file name="u226-42.png" crc="4246825195" ref="b"/>
-    <file name="u229-42.png" crc="4095206678" ref="b"/>
+    <file name="u229-42.png" crc="310674678" ref="b"/>
     <file name="wakeupsong506x285.jpg" crc="463613391" seo="true" ref="b">
       <caption webpage="b" alt=""/>
     </file>
@@ -134,7 +134,7 @@
     </file>
   </folder>
   <file name="index.html" crc="98769968" seo="true" mt="1579113630012" redirect="true"/>
-  <file name="b.html" crc="80137308" seo="true" mt="1579113798606" redirect="true"/>
-  <file name="c.html" crc="4071865368" seo="true" mt="1579114378741" redirect="true"/>
-  <file name="2.html" crc="168242860" seo="true" mt="1579114439097" redirect="true"/>
+  <file name="b.html" crc="285829252" seo="true" mt="1579116364248" redirect="true"/>
+  <file name="c.html" crc="3945848813" seo="true" mt="1579116315511" redirect="true"/>
+  <file name="2.html" crc="47552201" seo="true" mt="1579116272227" redirect="true"/>
 </manifest>
